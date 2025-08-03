@@ -47,4 +47,8 @@ ashish-portfolio/
 ├── index.html
 ├── package.json
 ├── vite.config.js
+<<<<<<< HEAD
 └── README.md
+=======
+└── README.md
+>>>>>>> 8690216 (titel changed)
