@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio built with **React + Vite**, deployed using **GitHub Pages**.
 
-🌐 **Live Site**: [https://ashishkumar.github.io](https://ashishkumar.github.io)
+🌐 **Live Site**: [https://ashishkr26.github.io](https://ashishkr26.github.io)
 
 This portfolio showcases my skills, experience, and projects as a full-stack web developer. It's fast, responsive, and built to scale.
 
