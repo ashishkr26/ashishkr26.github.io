@@ -1,15 +1,16 @@
-import Navbar from './assets/components/Navbar';
-import Hero from './assets/components/Hero';
-import About from './assets/components/About';
-import Projects from './assets/components/Projects';
-import Contact from './assets/components/Contact';
-import Footer from './assets/components/Footer';
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import About from './components/About';
+import Projects from './components/Projects';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import MainCover from './components/MainCover';
 
 function App() {
   return (
     <>
       <Navbar />
-      <Hero />
+      <MainCover />
       <About />
       <Projects />
       <Contact />
